@@ -1,0 +1,6 @@
+u_uart.c:16:6:uart_init	8	static
+u_uart.c:23:6:uart_receive_char	8	static
+u_uart.c:33:6:uart_send	72	static
+u_uart.c:38:6:uart_send_char	72	static
+u_uart.c:45:9:uart_check_flag	4	static
+u_uart.c:53:9:uart_get_currBuffer	4	static

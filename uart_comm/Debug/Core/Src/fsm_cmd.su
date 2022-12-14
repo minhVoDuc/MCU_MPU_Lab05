@@ -1,0 +1,3 @@
+fsm_cmd.c:17:6:cmd_init	4	static
+fsm_cmd.c:23:6:cmd_parser_fsm	8	static
+fsm_cmd.c:100:9:cmd_get	16	static

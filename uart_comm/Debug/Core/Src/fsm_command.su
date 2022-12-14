@@ -1,0 +1,2 @@
+fsm_command.c:10:6:command_init	4	static
+fsm_command.c:14:6:command_parser_fsm	4	static
